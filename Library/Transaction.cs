@@ -9,5 +9,7 @@ public class Transaction
     public DateTime date;
     public decimal amount;
     public string title;
+    public Category category;
+
 
 }

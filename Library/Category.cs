@@ -8,5 +8,5 @@ public enum Category
 {
     //Create category names here
     Income,
-    bills,
+    Bills,
 }
